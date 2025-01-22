@@ -8,7 +8,7 @@
 
 - 👀 I'm interested in **Full Stack Development, Machine Learning ,Identity and Access Management**
 - 🧑‍🎓 I’m currently a 3rd year ENTC Undergraduate at **University of Moratuwa**
-- 💬 Ask me about **Web Development | Machine Learning |Identity and Access Management | Telecommunication **
+- 💬 Ask me about **Web Development | Machine Learning |Identity and Access Management | Telecommunication**
 - 📫 How to reach me: **mihirangangd.21@uom.lk**
 
 <br>
